@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammedZeeshan 
-- 👀 I’m interested in learning technology
-- 🌱 Thank you.
+- 👀 I’m interested in technology
+- 🌱 Feel free to connect...
 
 
 <!---
